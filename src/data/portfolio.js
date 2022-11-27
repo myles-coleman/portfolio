@@ -3,7 +3,7 @@ export default [
         title: 'Developer Portfolio',
         imgUrl: '../assets/portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: '',
+        link: 'https://github.com/myles-coleman/portfolio.git',
     },
     {
         title: 'Pathfinding Visualizer',
